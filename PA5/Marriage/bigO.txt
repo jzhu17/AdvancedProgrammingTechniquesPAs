@@ -1,0 +1,11 @@
+Name: Julia Zhu 
+Assignment: PA#5
+Class: COSI 12B Section 1 
+Description: this file is the answer to the Big-O problems. ^2 and ^3 mean square and cube.
+Note: Thanks for grading:) 
+
+A. O(n)
+B. O(n)
+C. O(n^2)
+D. O(n)
+E. O(n^3)
